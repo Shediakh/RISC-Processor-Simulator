@@ -1,0 +1,11 @@
+#This is a comment
+#Value of 1 store in register $R0
+li, $R0, 1
+#Value of 2 stored in register $R1
+li, $R1, 2
+#Addition between $R0 and $R1 stored in $R2
+add, $R0, $R1, $R2
+#Bitwise or between $R0 and $R1, stored in $R3
+or, $R0, $R1, $R3
+#Bitwise and between $R0 and $R1, stored in $R4
+and, $R0, $R1, $R4
