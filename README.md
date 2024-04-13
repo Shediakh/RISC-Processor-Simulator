@@ -1,4 +1,3 @@
-# RISC-Processor-simulation
 # RISC Processor Simulator
 
 This RISC Processor Simulator is a tool designed to simulate the behavior of a RISC (Reduced Instruction Set Computing) processor. It allows users to understand and experiment with the execution of instructions commonly found in RISC architectures.
