@@ -9,7 +9,7 @@ This RISC Processor Simulator is a tool designed to simulate the behavior of a R
 1. **Setup**: Clone the repository to your local machine.
 2. **Input**: Under `InputCode.txt` write your code and save it
 3. **Compile & Run**: Compile and run  the assembler under `/Simulator/Assembler.java`
-4. **Output**: The simulator will display the result (value at the destination register) of each operation as well as the instructions in machine code.
+4. **Output**: The simulator will display the result (value at the destination register) of each operation as well as the instructions in machine code (`OutputMachineCode.txt`).
 
 
 ## Sample Input (InputCode.txt)
